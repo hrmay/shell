@@ -1,0 +1,9 @@
+ls
+pwd
+cd ..
+pwd
+cd ..
+pwd
+cd 405/hw3
+pwd
+test.py

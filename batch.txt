@@ -1,0 +1,8 @@
+pwd
+cd
+pwd
+cd 405
+pwd
+cd hw3
+pwd
+exit
